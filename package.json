@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "back": "nodemon watch back/",
+        "front": "nodemon watch front/"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
