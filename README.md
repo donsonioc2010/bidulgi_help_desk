@@ -4,6 +4,7 @@
 
 Back : node.js(Express)를 사용할 예정<br>
 front : html + js,jq + bootstrap4 + fontawesome<br>
+=>react로 변경, jq 삭제<br>
 db : aws ubuntu mariaDB<br>
 협업툴 : notion, slack, erdcloud
 배포 : aws ubuntu + jenkins 사용해볼 예정<br>
