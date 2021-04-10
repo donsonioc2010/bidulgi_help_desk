@@ -13,3 +13,6 @@ db : aws ubuntu mariaDB<br>
 현재 작업사항 : aws ubuntu 설정완료, mariadb 생성완료<br>
         -front 파일경로 추가완료<br>
         -back  dbConnection 추가완료
+
+
+종원-회사입사로 못하게됨 9999999
